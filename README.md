@@ -1,4 +1,4 @@
-# 🎬 Movie Database App
+# 🎬 Movie Database Web App
 
 A modern web application that allows users to explore and discover movies. Built with React and powered by TMDB API.
 
@@ -7,9 +7,9 @@ A modern web application that allows users to explore and discover movies. Built
 Check out the live demo: [Movie Database App](https://mymovdb.netlify.app/)
 
 ## 🖼️ Screenshot
+![home_mymovdb](https://github.com/user-attachments/assets/265ed558-b81e-4332-b6ab-370da2771cab)
+![mymovdb](https://github.com/user-attachments/assets/3b3e0032-50cc-4c8e-91d5-9b7c788b392c)
 
-![Movie Database App Screenshot](./screenshot.png)
-*(Add your application screenshot here)*
 
 ## ✨ Features
 
@@ -24,43 +24,7 @@ Check out the live demo: [Movie Database App](https://mymovdb.netlify.app/)
 - React
 - Vite
 - TMDB API
-- CSS for styling
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (version 14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/movie-database.git
-```
-
-2. Install dependencies
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Start the development server
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-## 📝 Usage
-
-- Browse through the movie collection on the home page
-- Use the search bar to find specific movies
-- Click on a movie card to view detailed information
+- Tailwind css for styling
 
 ## 🤝 Contributing
 
@@ -72,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👏 Acknowledgments
 
-- [TMDB API](https://www.themoviedb.org/documentation/api) for providing movie data
+- [TMDB API](https://www.omdbapi.com/apikey.aspx) for providing movie data
 - [React](https://reactjs.org/) for the awesome framework
 - [Vite](https://vitejs.dev/) for the build tool
